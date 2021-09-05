@@ -5,8 +5,8 @@
 # Log Code Reference: https://osp4diss.vlsm.org/ETC/logCodes.txt
 # This log is the sum of duration spent on specific activities. Sorted by Week, then LogCode, then Subject.
 
-ZCZC W00  565 L00 General, etc.
-ZCZC W00  150 L01 SCELE/Discord related
+ZCZC W00  655 L00 General, etc.
+ZCZC W00  180 L01 SCELE/Discord related
 ZCZC W00  210 L02 ZOOM meetings related Alin
 ZCZC W00   60 L02 ZOOM meetings related MPPI
 ZCZC W00  150 L02 ZOOM meetings related OS
@@ -16,14 +16,22 @@ ZCZC W00   75 L03 GitHub related
 ZCZC W00   15 L04 GitHub Pages related
 ZCZC W00   60 L06 References/Books/Documents/GSGS related OS
 ZCZC W00  150 L22 Quiz SDA
-ZCZC W00  855 L63 Fixing Hardware Problems PC related
+ZCZC W00 1365 L63 Fixing Hardware Problems PC related
 ZCZC W00   75 L70 Studying for other courses Alin
 ZCZC W00  120 L70 Studying for other courses Japanese
 ZCZC W00   90 L70 Studying for other courses SDA
 ZCZC W00  210 L73 Gaming Enter The Gungeon
 ZCZC W00  210 L80 Waching: Movie, YouTube, TV, etc.
-ZCZC W00 2860 L84 Relax, Rest, and Sleep
+ZCZC W00 3310 L84 Relax, Rest, and Sleep
+ZCZC W00  210 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc. Building chore 
+ZCZC W00  150 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc. Traveling chore
 ZCZC W00  810 L99 Other I Forgot
+
+
+
+
+
+
 
 
 
