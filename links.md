@@ -15,5 +15,5 @@ cheat sheets for easier use. This website also sells "The Markdown Guide" Book b
 <br>
 <br>
 <br>
-###### This page is still under construction. Come back later for other links and improvements.<br>
+###### This page is still under construction. Come back later for other links and improvements.
 ###### © 2021-2021 --- Haikal Rahman ---- Last updated: 12 Sep 2021
