@@ -1,5 +1,5 @@
-#### Quick Access<br>
-| [Home](https://haikalrmn.github.io/os212/ "Repository's Home Page (You are here)") | [Links](https://haikalrmn.github.io/os212/LINKS/ "OS/Github Related References") | [Logs](https://haikalrmn.github.io/os212/TXT/mylog.txt "Log of My Daily Activities 24/7") |
+#### Quick Access
+###### | [Home](https://haikalrmn.github.io/os212/ "Repository's Home Page (You are here)") | [Links](https://haikalrmn.github.io/os212/LINKS/ "OS/Github Related References") | [Logs](https://haikalrmn.github.io/os212/TXT/mylog.txt "Log of My Daily Activities 24/7") |
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^
 # os212
 Operating Systems 2021-2
@@ -13,5 +13,5 @@ If you have any question, you can contact:
 <br>
 <br>
 
-###### This page is still under construction. Come back later for further improvements.<br>
+###### This page is still under construction. Come back later for further improvements.
 ###### © 2021-2021 --- Haikal Rahman ---- Last updated: 12 Sep 2021
