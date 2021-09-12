@@ -3,7 +3,7 @@ permalink: /LINKS/
 ---
 
 ### Quick Access
-| [Home](https://haikalrmn.github.io/os212/ "Repository's Home Page") | [Links](https://haikalrmn.github.io/os212/LINKS/ "OS/Github Related References") | [Logs](https://haikalrmn.github.io/os212/TXT/mylog.txt "Log of My Daily Activities 24/7") |
+| [Home](https://haikalrmn.github.io/os212/ "Repository's Home Page") | [Links](https://haikalrmn.github.io/os212/LINKS/ "OS/Github Related References (You are here)") | [Logs](https://haikalrmn.github.io/os212/TXT/mylog.txt "Log of My Daily Activities 24/7") |
 # Useful Links
 These are links that are often visited by me. These links are related to operating systems and github including scripting, markdown, linux tutorials, etc.
 
