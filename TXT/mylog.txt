@@ -1,5 +1,5 @@
 # Log started recording from 30 August 2021 as day 1 of W00.
-# Log Format
+i Log Format
 # ZCZC WEEK# MINUTES LogCode Description Subject
 # LogCode + Description List
 # Log Code Reference: https://osp4diss.vlsm.org/ETC/logCodes.txt
@@ -57,4 +57,5 @@ ZCZC W01 3900 L84 Sleep
 ZCZC W01   10 L84 Istirahat
 
 
-
+ZCZC W01   60 L04 Updating GitHub Pages
+ZCZC W01   60 L12 Generating and Signing OS Pubkey
