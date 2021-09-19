@@ -57,5 +57,10 @@ ZCZC W01 3900 L84 Sleep
 ZCZC W01   10 L84 Istirahat
 
 
-ZCZC W01   60 L04 Updating GitHub Pages
-ZCZC W01   60 L12 Generating and Signing OS Pubkey
+ZCZC W02  130 L02 OS Meeting with Mr. Rahmat
+ZCZC W02  150 L02 Ristek NetSOS Interal Class, studying Cybersecurity about web exploitation
+ZCZC W02   30 L03 Log recap
+ZCZC W02   60 L04 Updating GitHub Pages
+ZCZC W02   60 L09 Generating, Signing, and exporting OS Pubkey
+ZCZC W02   60 L09 Understanding and creating myscript.sh
+ZCZC W02   60 L11 Reading OSC10 Chap 16 + Chap 17
