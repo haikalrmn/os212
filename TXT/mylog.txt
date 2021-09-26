@@ -1,9 +1,10 @@
 # Log started recording from 30 August 2021 as day 1 of W00.
-i Log Format
+# Log Format
 # ZCZC WEEK# MINUTES LogCode Description Subject
 # LogCode + Description List
 # Log Code Reference: https://osp4diss.vlsm.org/ETC/logCodes.txt
 # This log is the sum of duration spent on specific activities. Sorted by Week, then LogCode, then Subject.
+# As of W02 onwards, I only write down logs of OS/Github related activities.
 
 ZCZC W00  865 L00 General, etc.
 ZCZC W00  180 L01 SCELE/Discord related
@@ -64,3 +65,19 @@ ZCZC W02   60 L04 Updating GitHub Pages
 ZCZC W02   60 L09 Generating, Signing, and exporting OS Pubkey
 ZCZC W02   60 L09 Understanding and creating myscript.sh
 ZCZC W02   60 L11 Reading OSC10 Chap 16 + Chap 17
+
+
+ZCZC W03  150 L02 OS Meeting With Mr. Rahmat
+ZCZC W03   60 L03 GSGS about Filesystem, Vi, and Regex
+ZCZC W03   20 L22 Quiz W02
+ZCZC W03   90 L11 Assignment 1: Reading OSC10 chap 13, 14, 15
+ZCZC W03   30 L12 Assignment 2: Tying W03 Demos   
+ZCZC W03   30 L13 Assignment 3: Trying W03 Midterms
+ZCZC W03   10 L14 Assignment 4: Check .bash_aliases
+ZCZC W03   45 L15 Assignment 5: Add/create SDC Virtual Disk
+ZCZC W03   30 L16 Assignment 6: Updating Links
+ZCZC W03   10 L17 Assignment 7: Review Peer from 106 to 115 (included)
+ZCZC W03   15 L18 Assignment 8: Update W03 Log
+ZCZC W03   10 L19 Assignment 9: Submitting W03 Assignment
+
+
