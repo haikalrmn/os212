@@ -29,9 +29,13 @@ RegExr is a platform created by Grant Skinner and the gskinner team where you ca
 [Visit Here](http://linuxfocus.org/~guido/vi/viref.html)<br>
 This is a documention of Vi. The UI/UX may be not the best, but it has very detailed information about Vi. This websites can redirect you to the basics of VI, tips and tricks, and also VI original man page.
 
+## 6. Pointers in C / C++ [Full Course]
+[Visit Here](https://www.youtube.com/watch?v=zuegQmMdy8M&ab_channel=freeCodeCamp.org)<br>
+This is a Youtube video was created as a playlist made by the excellent instructors from MyCodeSchool Youtube channel, but compiled and reuploaded as one 4 hour length video by freecodecamp.org. This video explains in very detail about pointers in C/C++, which is one the most challenging topic to understand. Since this is a very detailed, slow paced video, I recommend you to not watch it in one sitting. You also have to watch and practice after each subtopic ends, so that you can remember the concept more. This video explains pointers in general, its purposse, pointer types, pointers as function arguments, pointers and arrays, function pointers, etc.
+
 <br>
 <br>
 <br>
 
 ###### This page is still under construction. Come back later for other links and improvements.
-###### © 2021-2021 --- Haikal Rahman ---- Last updated: 26 Sep 2021
+###### © 2021-2021 --- Haikal Rahman ---- Last updated: 3 Oct 2021
