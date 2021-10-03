@@ -31,7 +31,7 @@ This is a documention of Vi. The UI/UX may be not the best, but it has very deta
 
 ## 6. Pointers in C / C++ [Full Course]
 [Visit Here](https://www.youtube.com/watch?v=zuegQmMdy8M&ab_channel=freeCodeCamp.org)<br>
-This is a Youtube video was created as a playlist made by the excellent instructors from MyCodeSchool Youtube channel, but compiled and reuploaded as one 4 hour length video by freecodecamp.org. This video explains in very detail about pointers in C/C++, which is one the most challenging topic to understand. Since this is a very detailed, slow paced video, I recommend you to not watch it in one sitting. You also have to watch and practice after each subtopic ends, so that you can remember the concept more. This video explains pointers in general, its purposse, pointer types, pointers as function arguments, pointers and arrays, function pointers, etc.
+This is a Youtube video that was created as a playlist made by the excellent instructors from MyCodeSchool, but compiled and reuploaded as one 4 hour length video by freecodecamp.org. This video explains about pointers in C/C++, which is one the most challenging topic to understand. Since this is a very detailed, slow paced video, I recommend you to not watch it in one sitting. You also have to practice after each subtopic ends, so that you can remember the concept more. This video explains pointers in general, its purpose, pointer types, pointers as function arguments, pointers and arrays, function pointers, etc.
 
 <br>
 <br>

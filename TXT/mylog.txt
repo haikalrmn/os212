@@ -80,4 +80,9 @@ ZCZC W03   10 L17 Assignment 7: Review Peer from 106 to 115 (included)
 ZCZC W03   15 L18 Assignment 8: Update W03 Log
 ZCZC W03   10 L19 Assignment 9: Submitting W03 Assignment
 
-
+ZCZC W04  130 L02 OS Meeting With Mr. Rahmat
+ZCZC W04   15 L14 Assignment 4: Install Package List 2 (TLPI)
+ZCZC W04   60 L15 Assignment 5: Fetch and Extract File "WEEK04.tar.bz2.asc"
+ZCZC W04   15 L16 Assignment 6: Updating Links
+ZCZC W04   15 L18 Assignment 8: Updating W04 Log
+ZCZC W04    5 L19 Assignment 9: Submitting W04 Assignment
