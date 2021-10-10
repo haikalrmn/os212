@@ -90,3 +90,15 @@ ZCZC W04   15 L16 Assignment 6: Updating Links
 ZCZC W04   35 L18 Assignment 8: Updating W04 Log
 ZCZC W04    5 L19 Assignment 9: Submitting W04 Assignment
 ZCZC W04   20 L22 Quiz W03
+
+
+ZCZC W05  140 L02 OS Meeting With Mr. Rahmat
+ZCZC W05  120 L11 Assignment 1: Reading OSC10 chap 10
+ZCZC W05   15 L12 Assignment 2: Trying W04 Demos (With GSGS/Youtube)
+ZCZC W05   15 L13 Assignment 3: Trying W04 MidTerm Problems (With GSGS/Youtube)
+ZCZC W05   60 L14 Assignment 4: How Low (Memory) Can You Go?
+ZCZC W05   30 L15 Assignment 5: Updating links
+ZCZC W05   30 L16 Assignment 6: Updating tips
+ZCZC W05   15 L18 Assignment 8: Updating W05 Log
+ZCZC W05    5 L19 Assignment 9: Submitting W05 Assignment
+ZCZC W05   20 L22 Quiz W04
