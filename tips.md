@@ -1,4 +1,4 @@
-yout: "layout"
+---
 permalink: /TIPS/
 ---
 
