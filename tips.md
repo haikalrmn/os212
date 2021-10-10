@@ -8,7 +8,7 @@ permalink: /TIPS/
 
 # TIPS
 
-##1. What Should You Expect from This Subject
+## 1. What Should You Expect from This Subject
 In Operating System, you are being pushed to study and explore on your own. Usually, the lecturer only explains the learning material very briefly and explains more about the assignments. So the detail of said material have to be explored on your own from Google, or "Google sana Google sini, gsgs". The assignment format is very strict. But on the other side, the assignments TO DOs are written very detailed. Even if you doesn't like Operating Systems, as long as you do the assignments and do well on weekly quizes, you should be fine.
 
 <br>
