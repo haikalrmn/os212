@@ -102,3 +102,16 @@ ZCZC W05   30 L16 Assignment 6: Updating tips
 ZCZC W05   15 L18 Assignment 8: Updating W05 Log
 ZCZC W05    5 L19 Assignment 9: Submitting W05 Assignment
 ZCZC W05   20 L22 Quiz W04
+
+ZCZC W06      L02 OS Meeting With Mr. Anwar
+ZCZC W06      L11 Assignment 1: Reading OSC10 chap 3 and 4
+ZCZC W06      L12 Assignment 2: Trying W06 Demos (With GSGS/Youtube)
+ZCZC W06      L13 Assignment 3: Trying W06 MidTerm Problems (With GSGS/Youtube)
+ZCZC W06   35 L14 Assignment 4: Fork() and Shared Memory
+ZCZC W06      L15 Assignment 5: Updating links
+ZCZC W06      L16 Assignment 6: Updating tips
+ZCZC W06      L17 Assignment 7: Review peer links from 136 to 145 (included)
+ZCZC W06   10 L18 Assignment 8: Updating W05 Log
+ZCZC W06    5 L19 Assignment 9: Submitting W05 Assignment
+ZCZC W06   10 L22 Quiz W05 (Woke up 10 minutes late)
+ZCZC W06   80 L32 Watch OS Week06 Playlist from Mr. Anwar (Monday Asynchronous Session)
