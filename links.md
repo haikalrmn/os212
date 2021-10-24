@@ -36,9 +36,13 @@ This is a Youtube video that was created as a playlist made by the excellent ins
 ## 7. Operating System - Virtual Memory
 [Visit Here](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
 This page provided by tutorialspoint explains how Virtual Memory of Operating System work in general. This page explains virtual memory, demand paging, page replacement algorithms and page buffering algorithm. This might not be the detailed explanation of said virtual memory, but at least you get the general info on how and why it works, and everything else that you should know. This can provide you keywords which you can search the detail of from google.
+
+## 8. Operating System: Threads and Concurrency
+[Visit Here](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+This article made by Akhand Mishra explains necessary keywords about Threads and Concurrency, such as definition, its purpose, and other stuffs. Same with previous article, this isn't very detailed but able to make you understand the general picture of operating systems' threads and concurrency.
 <br>
 <br>
 <br>
 
 ###### This page is still under construction. Come back later for other links and improvements.
-###### © 2021-2021 --- Haikal Rahman ---- Last updated: 10 Oct 2021
+###### © 2021-2021 --- Haikal Rahman ---- Last updated: 24 Oct 2021
