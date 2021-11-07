@@ -40,9 +40,14 @@ This page provided by tutorialspoint explains how Virtual Memory of Operating Sy
 ## 8. Operating System: Threads and Concurrency
 [Visit Here](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
 This article made by Akhand Mishra explains necessary keywords about Threads and Concurrency, such as definition, its purpose, and other stuffs. Same with previous article, this isn't very detailed but able to make you understand the general picture of operating systems' threads and concurrency.
+
+## 9. Process Synchronization
+[Visit Here](https://www.studytonight.com/operating-system/process-synchronization)<br>
+In this article made by Study Tonight, they cover a lot of concept of Process Synchronization in an Operating System. The key concepts they provide are general view of Process Synchronization, Race Condition, Critical Section Problem, and Critical Section Problem's Solution. They even explain each of said solution, including Peterson's Solution, Synchronization Hardware, and Mutex Locks. On the next page, you can even find out about Classical Problems of Synchronization, that is, Bounded Buffer (Producer-Consumer) Problem, Dining Philosophers Problem, The Readers Writers Problem, and each problem's solution. If you keep advancing to the next pages, you can find Deadlock Detection, Prevention, Avoidance, and Recovery in OS.
+ 
 <br>
 <br>
 <br>
 
 ###### This page is still under construction. Come back later for other links and improvements.
-###### © 2021-2021 --- Haikal Rahman ---- Last updated: 24 Oct 2021
+###### © 2021-2021 --- Haikal Rahman ---- Last updated: 7 Nov 2021
