@@ -128,3 +128,17 @@ ZCZC W07   10 L18 Assignment 8: Updating W07 Log
 ZCZC W07    5 L19 Assignment 9: Submitting W07 Assignment
 ZCZC W07   20 L22 Quiz W06
 ZCZC W07  120 L32 Watch OS Week07 Playlist from Mr. Anwar
+
+ZCZC W08  140 L02 OS Meeting With Mr. Anwar (Monday Class Finished early)
+ZCZC W08   40 L11 Assignment 1: Reading OSC10 chap 5
+ZCZC W08   30 L12 Assignment 2: Trying W08 Demos (With GSGS/Youtube)
+ZCZC W08   30 L13 Assignment 3: Trying W08 MidTerm Problems (With GSGS/Youtube)
+ZCZC W08  400 L14 Assignment 4: Synchronization and Shared Memory (actually forgot the exact time)
+ZCZC W08   30 L15 Assignment 5: Updating links
+ZCZC W08   10 L16 Assignment 6: Updating tips
+ZCZC W08   10 L17 Assignment 7: Review peer links from 156 to 165 (included)
+ZCZC W08   10 L18 Assignment 8: Updating W08 Log
+ZCZC W08    5 L19 Assignment 9: Submitting W08 Assignment
+ZCZC W08   20 L22 Quiz W07
+ZCZC W08  150 L32 Watch and apprehend OS Week08 Playlist from Mr. Grafika and Mr. Anwar
+
