@@ -25,10 +25,12 @@ As I've already said from tips #1, the lecturer is very strict and could give a 
 * Do not fork/clone/rebase from one of your colleague's branch
 * Do not modify provided scripts from the lecturer/teaching assistants that could made an error
 
+## 4. Know Your Priorities
+OS only claim 9 out of 11 of your weekly scores. If you have other priorities, you can always skip a week to do that instead. Just remember, you might miss that week's lessons by not attending class or not doing the assignment of that week. Do it if you only care about scores, or you might learn it yourself later on.
 
 <br>
 <br>
 <br>
 
 ###### This page is still under construction. Come back later for other tips and improvements.
-###### © 2021-2021 --- Haikal Rahman ---- Last updated: 7 Nov 2021
+###### © 2021-2021 --- Haikal Rahman ---- Last updated: 14 Nov 2021

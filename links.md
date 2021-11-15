@@ -45,9 +45,13 @@ This article made by Akhand Mishra explains necessary keywords about Threads and
 [Visit Here](https://www.studytonight.com/operating-system/process-synchronization)<br>
 In this article made by Study Tonight, they cover a lot of concept of Process Synchronization in an Operating System. The key concepts they provide are general view of Process Synchronization, Race Condition, Critical Section Problem, and Critical Section Problem's Solution. They even explain each of said solution, including Peterson's Solution, Synchronization Hardware, and Mutex Locks. On the next page, you can even find out about Classical Problems of Synchronization, that is, Bounded Buffer (Producer-Consumer) Problem, Dining Philosophers Problem, The Readers Writers Problem, and each problem's solution. If you keep advancing to the next pages, you can find Deadlock Detection, Prevention, Avoidance, and Recovery in OS.
  
+## 10. CPU Scheduling Algorithms in Operating Systems
+[Visit Here](https://www.guru99.com/cpu-scheduling-algorithms.html)<br>
+Just like aforementioned websites, this website is kinda general in explaining the concepts about CPU scheduling in Operating System. Might not be detailed, but might be useful for quick reading or writing summaries about CPU Scheduling.
+
 <br>
 <br>
 <br>
 
 ###### This page is still under construction. Come back later for other links and improvements.
-###### © 2021-2021 --- Haikal Rahman ---- Last updated: 7 Nov 2021
+###### © 2021-2021 --- Haikal Rahman ---- Last updated: 14 Nov 2021
