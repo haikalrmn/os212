@@ -49,9 +49,13 @@ In this article made by Study Tonight, they cover a lot of concept of Process Sy
 [Visit Here](https://www.guru99.com/cpu-scheduling-algorithms.html)<br>
 Just like aforementioned websites, this website is kinda general in explaining the concepts about CPU scheduling in Operating System. Might not be detailed, but might be useful for quick reading or writing summaries about CPU Scheduling.
 
+## 11. Mass-Storage Structure
+[Visit Here](http://malgenomeproject.org/os2018fall/11_Mass_Storage.pdf)<br>
+This website, or rather PDF file, made by Yajin Zhou from Zheijang University explains a Mass-Storage Structure in Operating Systems. It explains the same key points from Chapter 11 of OSC10 by Schilberschatz, where it explains Disk Structure, Disk Scheduling, Disk Management, Swap-Space Management, and RAID Structure, but some of them are explained in more detail and added some image for better explanation. For example, this PDF explains RAID in detail, where in the Chapter 11 of OSC10 power points doesn't. So if you can't afford to buy Schilberschatz book and only have access to its powerpoint of Chapter 11, you can read this PDF to learn more information about this topic.
+
 <br>
 <br>
 <br>
 
 ###### This page is still under construction. Come back later for other links and improvements.
-###### © 2021-2021 --- Haikal Rahman ---- Last updated: 14 Nov 2021
+###### © 2021-2021 --- Haikal Rahman ---- Last updated: 21 Nov 2021

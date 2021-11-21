@@ -142,3 +142,15 @@ ZCZC W08    5 L19 Assignment 9: Submitting W08 Assignment
 ZCZC W08   20 L22 Quiz W07
 ZCZC W08  150 L32 Watch and apprehend OS Week08 Playlist from Mr. Grafika and Mr. Anwar
 
+ZCZC W09  100 L02 OS Meeting With Mr. Anwar (Monday Class Aynchronous)
+ZCZC W09   60 L11 Assignment 1: Reading OSC10 chap 11
+ZCZC W09   45 L12 Assignment 2: Trying W09 Demos (With GSGS/Youtube)
+ZCZC W09   30 L13 Assignment 3: Trying W09 FinalTerm Problems (With GSGS/Youtube)
+ZCZC W09  360 L14 Assignment 4: Linux From Scratch 11.0
+ZCZC W09   20 L15 Assignment 5: Updating links
+ZCZC W09   10 L16 Assignment 6: Updating tips
+ZCZC W09   15 L17 Assignment 7: Review peer links from 166 to 175 (included)
+ZCZC W09   15 L18 Assignment 8: Updating W09 Log
+ZCZC W09    5 L19 Assignment 9: Submitting W09 Assignment
+ZCZC W09   20 L22 Quiz W08
+ZCZC W09  105 L32 Watch and apprehend OS Week09 Playlist from Mr. Anwar and Linux Boot Process Videos

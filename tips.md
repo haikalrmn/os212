@@ -28,9 +28,12 @@ As I've already said from tips #1, the lecturer is very strict and could give a 
 ## 4. Know Your Priorities
 OS only claim 9 out of 11 of your weekly scores. If you have other priorities, you can always skip a week to do that instead. Just remember, you might miss that week's lessons by not attending class or not doing the assignment of that week. Do it if you only care about scores, or you might learn it yourself later on.
 
+## 5. Always Back up Your Virtual Box Machines
+Sometimes when you do something wrong, instead of debugging it and search for its solutions on the internet for like hours and hours without coming closer to a solution, you can always start from the beginning and redo the week instructions. Worst case scenario, if you done something that is irreversible, the only way you can fix it is to restore the virtual machine from the back up. So, before you made that mistake, it is advisable to make back up of your virtual machine each week after you've done the assignments so you can always revert to last week's state instead of reinstalling your virtual machine and start from zero.
+
 <br>
 <br>
 <br>
 
 ###### This page is still under construction. Come back later for other tips and improvements.
-###### © 2021-2021 --- Haikal Rahman ---- Last updated: 14 Nov 2021
+###### © 2021-2021 --- Haikal Rahman ---- Last updated: 21 Nov 2021
