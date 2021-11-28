@@ -31,9 +31,14 @@ OS only claim 9 out of 11 of your weekly scores. If you have other priorities, y
 ## 5. Always Back up Your Virtual Box Machines
 Sometimes when you do something wrong, instead of debugging it and search for its solutions on the internet for like hours and hours without coming closer to a solution, you can always start from the beginning and redo the week instructions. Worst case scenario, if you done something that is irreversible, the only way you can fix it is to restore the virtual machine from the back up. So, before you made that mistake, it is advisable to make back up of your virtual machine each week after you've done the assignments so you can always revert to last week's state instead of reinstalling your virtual machine and start from zero.
 
+## 6. Debugging Problems
+Before you try to contact your lecturer, or teaching assistants regarding debugging problems, please make sure you try to **try to debug it yourself** and **search it up on Google** first. Before you ask your question, you have to do some effort to fix it first. That includes knowing what your problem is, where it goes wrong, what you have done before, and what you have done trying to fix it. By doing that shows the lecturer that **you are actively trying to solve your problem** and not just **being spoonfed by giving screenshots and follow your teaching assistants instructions without knowing anything**. And also don't forget to follow the lecturers order on how to communicate with them. By doing both attempt and communicate properly, first, you are a very great person in general, second, your questions have more chance being answered by the lecturer and/or teaching assistants. Being nice is common sense, you know.
+
+
+This might be the last TIPS because this is the last week I'm doing this in OS (28 Nov). I might add some stuff later, or maybe not. Most probably no. Anyway, thank you for your time reading this. Hope these tips helps. To anyone doing Operating Systems in the future, good luck to you!
+
 <br>
 <br>
 <br>
 
-###### This page is still under construction. Come back later for other tips and improvements.
-###### © 2021-2021 --- Haikal Rahman ---- Last updated: 21 Nov 2021
+###### © 2021-2021 --- Haikal Rahman ---- Last updated: 28 Nov 2021

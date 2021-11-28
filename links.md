@@ -53,9 +53,14 @@ Just like aforementioned websites, this website is kinda general in explaining t
 [Visit Here](http://malgenomeproject.org/os2018fall/11_Mass_Storage.pdf)<br>
 This website, or rather PDF file, made by Yajin Zhou from Zheijang University explains a Mass-Storage Structure in Operating Systems. It explains the same key points from Chapter 11 of OSC10 by Schilberschatz, where it explains Disk Structure, Disk Scheduling, Disk Management, Swap-Space Management, and RAID Structure, but some of them are explained in more detail and added some image for better explanation. For example, this PDF explains RAID in detail, where in the Chapter 11 of OSC10 power points doesn't. So if you can't afford to buy Schilberschatz book and only have access to its powerpoint of Chapter 11, you can read this PDF to learn more information about this topic.
 
+## 12. I/O Systems
+[Visit Here](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)<br>
+This website summaries I/O Systems made by Silberschatz. This website explains each subsection effectively with its points and images. That includes I/O hardware, Application I/O interface Kernel I/O Subsystem, Transforming I/O Requests to Hardware Operations, STREAMS, and Performance.
+
+This might be the last LINKS because this is the last week I'm doing this in OS (28 Nov). I might add some stuff later, or maybe not. Most probably no. Anyway, thank you for your time reading this. Hope these links helps. To anyone doing Operating Systems in the future, good luck to you!
+
 <br>
 <br>
 <br>
 
-###### This page is still under construction. Come back later for other links and improvements.
-###### © 2021-2021 --- Haikal Rahman ---- Last updated: 21 Nov 2021
+###### © 2021-2021 --- Haikal Rahman ---- Last updated: 28 Nov 2021
