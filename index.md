@@ -15,5 +15,5 @@ If you have any question, you can contact:
 <br>
 <br>
 
-###### This page is still under construction. Come back later for further improvements.
+
 ###### © 2021-2021 --- Haikal Rahman ---- Last updated: 10 Oct 2021
